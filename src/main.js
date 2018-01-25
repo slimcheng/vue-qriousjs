@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import vueQriousjs from 'vue-qriousjs' 
+import vueQriousjs from './lib/index' 
 Vue.use(vueQriousjs)
 
 new Vue({

@@ -4791,9 +4791,9 @@ vue-loader@^13.0.5:
     vue-style-loader "^3.0.0"
     vue-template-es2015-compiler "^1.6.0"
 
-vue-qriousjs@^1.0.0:
+vue-qriousjs@./vue-qriousjs-1.0.0.tgz:
   version "1.0.0"
-  resolved "https://registry.npmjs.org/vue-qriousjs/-/vue-qriousjs-1.0.0.tgz#6fa291f4815877896a3a5ebb7d5349ea8fcdc36e"
+  resolved "./vue-qriousjs-1.0.0.tgz#b0a14d04cf44983bbbbd36400df2425814bc3d59"
   dependencies:
     qrious "^4.0.2"
     vue "^2.5.11"

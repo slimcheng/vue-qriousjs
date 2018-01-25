@@ -1,7 +1,7 @@
 {
   "name": "vue-qriousjs",
   "description": "the Vue 2.x component of QRious.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "slimcheng <cmrabc@gmail.com>",
   "license": "MIT",
   "private": false,
@@ -10,6 +10,10 @@
     "type": "git",
     "url": "https://github.com/slimcheng/vue-qriousjs"
   },
+  "keywords": [
+    "qrcode",
+    "vue qrcode"
+  ],
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
